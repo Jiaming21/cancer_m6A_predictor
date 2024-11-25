@@ -1,0 +1,2 @@
+load("/Users/huangjiaming/Desktop/cancer_m6A_predictor/file_m6Acancer_specificity/final_result[cut_off=0.8].rds")
+load("/Users/huangjiaming/Desktop/cancer_m6A_predictor/file_m6Acancer_specificity/final_result[cut_off=0.6].rds")
